@@ -1,0 +1,111 @@
+name: Metrics
+on:
+  # Schedule updates
+  schedule: [{cron: "0 * * * *"}]
+  push:
+    branches: [master]
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      # See action.yml for all options
+      - uses: lowlighter/metrics@latest
+        with:
+          # Your GitHub token
+          token: ${{ secrets.METRICS_TOKEN }}
+          # GITHUB_TOKEN is a special auto-generated token restricted to current repository, which is used to push files in it
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+
+          # Options
+
+          # User to compute metrics
+          # Defaults to the owner of "token"
+          user: gimyboya
+          # Template to use
+          # See https://github.com/lowlighter/metrics/tree/master/source/templates for supported templates
+          template: classic
+          # Template base content
+          # Pass a string of comma-separated values
+          # To disable everything (like if you want to use a plugin as standalone), pass an empty string
+          # Supported values are :
+          # - "header" (name, commits calendar, ...)
+          # - "activity" (commits, issues/pull requests opened, ...)
+          # - "community" (following, stars, sponsors, ...)
+          # - "repositories" (license, stars, forks, ...)
+          # - "metadata" (svg generation metadata)
+          base: header, activity, community, repositories, metadata
+          # Set timezone used by metrics
+          # See https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+          # Some plugins will use this setting to calibrate dates
+          config_timezone: Asia/Singapore
+          # Lines of code plugin
+          # Compute added/removed line for each of you repositories from your contributors stats
+          plugin_lines: yes
+          # Traffic plugin ("token" must have "repo" permission)
+          # Count views on your repositories
+          plugin_traffic: yes
+          # Coding habits plugin
+          # Search in your recent activity what've recently did and deduce facts/charts
+          plugin_habits: yes
+          # Number of activity events to base habits on
+          # Capped to 1000
+          plugin_habits_from: 1000
+          # Number of days to base habits on (older events will be discarded)
+          # Capped to 30
+          plugin_habits_days: 30
+          # Display tidbits about your active hours/days, indent used (spaces/tabs), etc. deduced from recent activity
+          plugin_habits_facts: yes
+          # Display charts of most active time of the day and languages recently used
+          plugin_habits_charts: yes
+          # List of ignored languages, comma separated
+          # Ignored languages won't count towards your languages metrics
+          plugin_languages: yes
+          # List of skipped repositories, comma separated
+          # Skipped repositories won't count towards your languages metrics
+          # plugin_languages_skipped:
+          # Follow-up plugin
+          # Display the number and the ratio of opened/closed issues and opened/merged pull requests on your repositories
+          plugin_followup: yes
+          # Isometric calendar plugin
+  # Display an isometric view of your commits calendar along with a few stats like current streak and average commits per day
+          plugin_isocalendar: yes
+          # Duration shown by isometric calendar plugin
+  # Supported values are "half-year" and "full-year"
+          plugin_isocalendar_duration: full-year
+          # Topics plugin
+          # Display starred topics
+          plugin_topics: yes
+          # Topics plugin mode
+          # Change the way topics are displayed
+          # Supported values are :
+          # - "starred" to display starred topics as interests labels
+          # - "mastered" to display starred topics as mastered/known technologies icons
+          plugin_topics_mode: mastered
+          # Sorting method of displayed topics
+  # Supported values are :
+  # - "stars" to sort them from most starred to least starred
+  # - "activity" to sort them from most recent activity to least recent activity
+  # - "starred" to sort them from your most recently starred to your least recently starred
+  # - "random" to sort them randomly
+          plugin_topics_sort: stars
+          # Number of topics to display (between 0 and 20)
+          # If more topics must be displayed, they will be grouped in an ellipsis
+          plugin_topics_limit: 50
+          # Projects plugin
+          # Display active projects
+          # plugin_projects: yes
+          # # Display active repository projects
+          # # By default, only user owned projects are displayed, with this option it is possible to display projects from repositories
+          # # List of comma-separated projects identifier, in the following format :user/:repo/projects/:project_id
+          # # The limit of displayed projects will automatically be updated so listed projects will fit
+          # plugin_projects_repositories: ''
+          # # Number of active projects to display
+          # # Between 1 and 100
+          # plugin_projects_limit: 4
+          plugin_stars: yes
+          plugin_stars_limit: 5
+          # Display stargazers evolution over the last two weeks
+          # It shows total stargazers along with increase rate per day
+          plugin_stargazers: yes
+          # plugin_tweets: yes
+          # plugin_tweets_limit: 2
