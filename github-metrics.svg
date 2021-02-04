@@ -1094,8 +1094,8 @@
             </div>
           
             <div class="entry">
-              <span class="value">1</span>
-              <div class="bar" style="height: 6.25px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+              <span class="value"></span>
+              <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
               08
             </div>
           
@@ -1212,8 +1212,8 @@
               </div>
             
               <div class="entry">
-                <span class="value">5</span>
-                <div class="bar" style="height: 15.625px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                <span class="value">4</span>
+                <div class="bar" style="height: 12.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                 Tue
               </div>
             
@@ -1251,13 +1251,13 @@
             
               <div class="entry">
                 <span class="name">Vue</span>
-                <div class="bar" style="width: 44.936%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                <div class="bar" style="width: 44.96000000000001%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                 <span class="value">56%</span>
               </div>
             
               <div class="entry">
                 <span class="name">TypeScript</span>
-                <div class="bar" style="width: 34.112%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                <div class="bar" style="width: 34.096%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                 <span class="value">43%</span>
               </div>
             
@@ -3217,7 +3217,7 @@
                   
                   <div class="name">
                     <span>uncle-tee/nestjs-early-access</span>
-                    <span>starred 14 hours ago</span>
+                    <span>starred 15 hours ago</span>
                   </div>
                 </div>
                 <div class="field description">
@@ -3259,7 +3259,7 @@
                   
                   <div class="name">
                     <span>omermorad/nestjs-pact</span>
-                    <span>starred 21 hours ago</span>
+                    <span>starred 22 hours ago</span>
                   </div>
                 </div>
                 <div class="field description">
@@ -3684,7 +3684,7 @@
           
             <span>These metrics include private contributions, timezone Asia/Singapore</span>
           
-          <span>Last updated Thu, 04 Feb 2021 00:43:06 GMT with lowlighter/metrics@3.3.0</span>
+          <span>Last updated Thu, 04 Feb 2021 01:41:33 GMT with lowlighter/metrics@3.3.0</span>
         </footer>
       
       <div id="metrics-end"></div>
