@@ -1340,8 +1340,8 @@
         <div class="chart-bars">
           
             <div class="entry">
-              <span class="value">3</span>
-              <div class="bar" style="height: 15px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+              <span class="value">2</span>
+              <div class="bar" style="height: 10px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
               00
             </div>
           
@@ -1478,8 +1478,8 @@
             </div>
           
             <div class="entry">
-              <span class="value">1</span>
-              <div class="bar" style="height: 5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+              <span class="value"></span>
+              <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
               23
             </div>
           
@@ -1494,8 +1494,8 @@
           <div class="chart-bars">
             
               <div class="entry">
-                <span class="value">14</span>
-                <div class="bar" style="height: 46.666666666666664px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                <span class="value">13</span>
+                <div class="bar" style="height: 43.333333333333336px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                 Sun
               </div>
             
@@ -1530,8 +1530,8 @@
               </div>
             
               <div class="entry">
-                <span class="value">3</span>
-                <div class="bar" style="height: 10px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                <span class="value">2</span>
+                <div class="bar" style="height: 6.666666666666667px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                 Sat
               </div>
             
@@ -1545,25 +1545,25 @@
             
               <div class="entry">
                 <span class="name">JavaScript</span>
-                <div class="bar" style="width: 61%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                <div class="bar" style="width: 61.135999999999996%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                 <span class="value">76%</span>
               </div>
             
               <div class="entry">
                 <span class="name">Vue</span>
-                <div class="bar" style="width: 10.792%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                <span class="value">13%</span>
+                <div class="bar" style="width: 10.84%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                <span class="value">14%</span>
               </div>
             
               <div class="entry">
                 <span class="name">TypeScript</span>
-                <div class="bar" style="width: 4.072%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                <div class="bar" style="width: 3.872%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                 <span class="value">5%</span>
               </div>
             
               <div class="entry">
                 <span class="name">CSS</span>
-                <div class="bar" style="width: 3.544%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                <div class="bar" style="width: 3.5600000000000005%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                 <span class="value">4%</span>
               </div>
             
@@ -3559,7 +3559,7 @@
                   
                   <div class="name">
                     <span>ankane/vue-chartkick</span>
-                    <span>starred 1 day ago</span>
+                    <span>starred 2 days ago</span>
                   </div>
                 </div>
                 <div class="field description">
@@ -3996,7 +3996,7 @@
           
             <span>These metrics include private contributions, timezone Asia/Singapore</span>
           
-          <span>Last updated Mon, 22 Mar 2021 15:20:36 GMT with lowlighter/metrics@3.5.0</span>
+          <span>Last updated Mon, 22 Mar 2021 16:31:38 GMT with lowlighter/metrics@3.5.0</span>
         </footer>
       
       <div id="metrics-end"></div>
