@@ -1375,7 +1375,7 @@
                             Mostly push code around 02:00
                         </li>
                         <li>
-                            Mostly active on tuesday
+                            Mostly active on thursday
                         </li>
                     </ul>
                 </div>
@@ -1473,10 +1473,8 @@
                         14
                     </div>
                     <div class="entry">
-                        <span class="value">
-                            1
-                        </span>
-                        <div class="bar" style="height: 10px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                        <span class="value"></span>
+                        <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
                         15
                     </div>
                     <div class="entry">
@@ -1557,9 +1555,9 @@
                         </div>
                         <div class="entry">
                             <span class="value">
-                                5
+                                4
                             </span>
-                            <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                            <div class="bar" style="height: 40px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                             Tue
                         </div>
                         <div class="entry">
@@ -1601,7 +1599,7 @@
                             <span class="name">
                                 Vue
                             </span>
-                            <div class="bar" style="width: 39.688%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <div class="bar" style="width: 39.656000000000006%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                             <span class="value">
                                 50%
                             </span>
@@ -1610,7 +1608,7 @@
                             <span class="name">
                                 JavaScript
                             </span>
-                            <div class="bar" style="width: 22.928%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <div class="bar" style="width: 22.944%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                             <span class="value">
                                 29%
                             </span>
@@ -1619,7 +1617,7 @@
                             <span class="name">
                                 TypeScript
                             </span>
-                            <div class="bar" style="width: 14.543999999999999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 14.559999999999999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">
                                 18%
                             </span>
@@ -1628,7 +1626,7 @@
                             <span class="name">
                                 CSS
                             </span>
-                            <div class="bar" style="width: 2.5280000000000005%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 2.536%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">
                                 3%
                             </span>
@@ -4126,7 +4124,7 @@
                     These metrics include private contributions, timezone Asia/Singapore
                 </span>
                 <span>
-                    Last updated Thu, 15 Apr 2021 07:23:22 GMT with lowlighter/metrics@3.6.0
+                    Last updated Thu, 15 Apr 2021 08:25:41 GMT with lowlighter/metrics@3.6.0
                 </span>
             </footer>
             <div id="metrics-end"></div>
