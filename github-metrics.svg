@@ -3668,7 +3668,7 @@
                                             stipsan/scroll-into-view-if-needed
                                         </span>
                                         <span>
-                                            starred 1 day ago
+                                            starred 2 days ago
                                         </span>
                                     </div>
                                 </div>
@@ -3726,7 +3726,7 @@
                                             ivanhofer/typesafe-i18n
                                         </span>
                                         <span>
-                                            starred 1 day ago
+                                            starred 2 days ago
                                         </span>
                                     </div>
                                 </div>
@@ -3893,7 +3893,7 @@
                                             nuxt-community/cloudinary-module
                                         </span>
                                         <span>
-                                            starred 5 days ago
+                                            starred 6 days ago
                                         </span>
                                     </div>
                                 </div>
@@ -4120,7 +4120,7 @@
                     These metrics include private contributions, timezone Asia/Singapore
                 </span>
                 <span>
-                    Last updated Thu, 15 Apr 2021 15:22:57 GMT with lowlighter/metrics@3.6.0
+                    Last updated Thu, 15 Apr 2021 16:40:09 GMT with lowlighter/metrics@3.6.0
                 </span>
             </footer>
             <div id="metrics-end"></div>
