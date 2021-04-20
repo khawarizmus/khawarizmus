@@ -1405,7 +1405,7 @@
                             Mostly push code around 02:00
                         </li>
                         <li>
-                            Mostly active on monday
+                            Mostly active on thursday
                         </li>
                     </ul>
                 </div>
@@ -1417,9 +1417,9 @@
                 <div class="chart-bars">
                     <div class="entry">
                         <span class="value">
-                            3
+                            1
                         </span>
-                        <div class="bar" style="height: 30px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                        <div class="bar" style="height: 10px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                         00
                     </div>
                     <div class="entry">
@@ -1567,49 +1567,49 @@
                             <span class="value">
                                 2
                             </span>
-                            <div class="bar" style="height: 20px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <div class="bar" style="height: 25px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                             Sun
                         </div>
                         <div class="entry">
                             <span class="value">
-                                5
+                                3
                             </span>
-                            <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                            <div class="bar" style="height: 37.5px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                             Mon
                         </div>
                         <div class="entry">
                             <span class="value">
                                 1
                             </span>
-                            <div class="bar" style="height: 10px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="height: 12.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             Tue
                         </div>
                         <div class="entry">
                             <span class="value">
                                 1
                             </span>
-                            <div class="bar" style="height: 10px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="height: 12.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             Wed
                         </div>
                         <div class="entry">
                             <span class="value">
                                 4
                             </span>
-                            <div class="bar" style="height: 40px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                            <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                             Thu
                         </div>
                         <div class="entry">
                             <span class="value">
                                 4
                             </span>
-                            <div class="bar" style="height: 40px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                            <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                             Fri
                         </div>
                         <div class="entry">
                             <span class="value">
                                 2
                             </span>
-                            <div class="bar" style="height: 20px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <div class="bar" style="height: 25px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                             Sat
                         </div>
                     </div>
@@ -1632,7 +1632,7 @@
                             <span class="name">
                                 TypeScript
                             </span>
-                            <div class="bar" style="width: 21.919999999999998%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <div class="bar" style="width: 21.968%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                             <span class="value">
                                 27%
                             </span>
@@ -1641,7 +1641,7 @@
                             <span class="name">
                                 JavaScript
                             </span>
-                            <div class="bar" style="width: 7.304%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 7.248%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">
                                 9%
                             </span>
@@ -1650,7 +1650,7 @@
                             <span class="name">
                                 CSS
                             </span>
-                            <div class="bar" style="width: 1.552%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 1.56%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">
                                 2%
                             </span>
@@ -1659,9 +1659,9 @@
                             <span class="name">
                                 SCSS
                             </span>
-                            <div class="bar" style="width: 0.392%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 0.4%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">
-                                0%
+                                1%
                             </span>
                         </div>
                     </div>
@@ -3686,7 +3686,7 @@
                                             cloudinary/cloudinary-vue
                                         </span>
                                         <span>
-                                            starred 11 hours ago
+                                            starred 12 hours ago
                                         </span>
                                     </div>
                                 </div>
@@ -3738,7 +3738,7 @@
                                             romkatv/powerlevel10k
                                         </span>
                                         <span>
-                                            starred 23 hours ago
+                                            starred 24 hours ago
                                         </span>
                                     </div>
                                 </div>
@@ -3796,7 +3796,7 @@
                                             heyvito/howe
                                         </span>
                                         <span>
-                                            starred 1 day ago
+                                            starred 2 days ago
                                         </span>
                                     </div>
                                 </div>
@@ -3854,7 +3854,7 @@
                                             stipsan/scroll-into-view-if-needed
                                         </span>
                                         <span>
-                                            starred 6 days ago
+                                            starred 7 days ago
                                         </span>
                                     </div>
                                 </div>
@@ -3912,7 +3912,7 @@
                                             ivanhofer/typesafe-i18n
                                         </span>
                                         <span>
-                                            starred 6 days ago
+                                            starred 7 days ago
                                         </span>
                                     </div>
                                 </div>
@@ -4132,7 +4132,7 @@
                     These metrics include private contributions, timezone Asia/Singapore
                 </span>
                 <span>
-                    Last updated Tue, 20 Apr 2021 15:23:44 GMT with lowlighter/metrics@3.7.0
+                    Last updated Tue, 20 Apr 2021 16:39:37 GMT with lowlighter/metrics@3.7.0
                 </span>
             </footer>
             <div id="metrics-end"></div>
