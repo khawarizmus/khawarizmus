@@ -1486,8 +1486,10 @@
                         11
                     </div>
                     <div class="entry">
-                        <span class="value"></span>
-                        <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+                        <span class="value">
+                            1
+                        </span>
+                        <div class="bar" style="height: 10px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                         12
                     </div>
                     <div class="entry">
@@ -1609,9 +1611,9 @@
                         </div>
                         <div class="entry">
                             <span class="value">
-                                2
+                                3
                             </span>
-                            <div class="bar" style="height: 20px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <div class="bar" style="height: 30px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                             Sat
                         </div>
                     </div>
@@ -1625,34 +1627,34 @@
                             <span class="name">
                                 Vue
                             </span>
-                            <div class="bar" style="width: 48.048%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                            <div class="bar" style="width: 49.848%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                             <span class="value">
-                                60%
+                                62%
                             </span>
                         </div>
                         <div class="entry">
                             <span class="name">
                                 TypeScript
                             </span>
-                            <div class="bar" style="width: 22.896%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <div class="bar" style="width: 21.6%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                             <span class="value">
-                                29%
+                                27%
                             </span>
                         </div>
                         <div class="entry">
                             <span class="name">
                                 JavaScript
                             </span>
-                            <div class="bar" style="width: 7.136%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 6.736%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">
-                                9%
+                                8%
                             </span>
                         </div>
                         <div class="entry">
                             <span class="name">
                                 CSS
                             </span>
-                            <div class="bar" style="width: 1.5359999999999998%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 1.4480000000000002%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">
                                 2%
                             </span>
@@ -1661,7 +1663,7 @@
                             <span class="name">
                                 SCSS
                             </span>
-                            <div class="bar" style="width: 0.392%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 0.368%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">
                                 0%
                             </span>
@@ -3830,7 +3832,7 @@
                                             cloudinary/cloudinary-vue
                                         </span>
                                         <span>
-                                            starred 3 days ago
+                                            starred 4 days ago
                                         </span>
                                     </div>
                                 </div>
@@ -4167,7 +4169,7 @@
                     These metrics include private contributions, timezone Asia/Singapore
                 </span>
                 <span>
-                    Last updated Sat, 24 Apr 2021 04:28:37 GMT with lowlighter/metrics@3.7.0
+                    Last updated Sat, 24 Apr 2021 05:25:35 GMT with lowlighter/metrics@3.7.0
                 </span>
             </footer>
             <div id="metrics-end"></div>
