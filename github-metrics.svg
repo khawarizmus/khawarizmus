@@ -3628,7 +3628,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>hashicorp/terraform</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -3670,7 +3670,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>superfly/fly</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -3704,7 +3704,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>hihayk/scale</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -3742,7 +3742,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>aws/jsii</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -4013,7 +4013,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions, timezone Asia/Singapore</span>
-                <span>Last updated Sat, 29 May 2021 21:33:53 GMT with lowlighter/metrics@3.9.0</span>
+                <span>Last updated Sat, 29 May 2021 22:35:23 GMT with lowlighter/metrics@3.9.0</span>
             </footer>
             <div id="metrics-end"></div>
         </div>
