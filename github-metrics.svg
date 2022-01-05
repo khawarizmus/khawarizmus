@@ -1907,17 +1907,17 @@
                     <div class="chart-bars horizontal">
                         <div class="entry">
                             <span class="name">Vue</span>
-                            <div class="bar" style="width: 77.2966828562571%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                            <div class="bar" style="width: 77.29863692688971%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                             <span class="value">97%</span>
                         </div>
                         <div class="entry">
                             <span class="name">JavaScript</span>
-                            <div class="bar" style="width: 2.132892425338431%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 2.131350681536555%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">3%</span>
                         </div>
                         <div class="entry">
                             <span class="name">TypeScript</span>
-                            <div class="bar" style="width: 0.5704247184044642%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 0.5700123915737298%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">1%</span>
                         </div>
                     </div>
@@ -3948,7 +3948,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>just-jeb/jest-marbles</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -3990,7 +3990,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>antfu/esno</span>
-                                        <span>starred 17 hours ago</span>
+                                        <span>starred 18 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -4028,7 +4028,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>elbywan/hyperactiv</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -4349,7 +4349,7 @@
                 </section>
                 <footer>
                     <span>These metrics include private contributions</span>
-                    <span>Last updated 5 Jan 2022, 09:07:45 (timezone Asia/Singapore) with lowlighter/metrics@3.16.0</span>
+                    <span>Last updated 5 Jan 2022, 10:39:27 (timezone Asia/Singapore) with lowlighter/metrics@3.16.0</span>
                 </footer>
             </section>
             <div id="metrics-end"></div>
