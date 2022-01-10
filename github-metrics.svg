@@ -2627,7 +2627,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>sdras/ecommerce-netlify</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🛍 A JAMstack Ecommerce Site built with Nuxt and Netlify Functions</div>
@@ -2780,7 +2780,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>obahareth/are-you-es5</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A package to help you find out which of your node_modules aren't ES5 so you can add them to your Webpack/Rollup/Parcel transpilation steps.</div>
@@ -3047,7 +3047,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 10 Jan 2022, 11:21:39 (timezone Asia/Singapore) with lowlighter/metrics@3.17.0</span>
+                <span>Last updated 10 Jan 2022, 12:26:27 (timezone Asia/Singapore) with lowlighter/metrics@3.17.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
