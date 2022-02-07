@@ -2629,7 +2629,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>pmndrs/lamina</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🍰 An extensible, layer based shader material for ThreeJS</div>
@@ -3055,7 +3055,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 7 Feb 2022, 10:31:05 (timezone Asia/Singapore) with lowlighter/metrics@3.19.0</span>
+                <span>Last updated 7 Feb 2022, 11:18:41 (timezone Asia/Singapore) with lowlighter/metrics@3.19.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
