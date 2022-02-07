@@ -2629,7 +2629,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>pmndrs/lamina</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🍰 An extensible, layer based shader material for ThreeJS</div>
@@ -2682,7 +2682,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>kamona-ui/kui-dashboard-vue</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Admin dashboard template built with tailwindcss &amp; vuejs 3.</div>
@@ -3055,7 +3055,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 7 Feb 2022, 15:17:16 (timezone Asia/Singapore) with lowlighter/metrics@3.19.0</span>
+                <span>Last updated 7 Feb 2022, 16:22:11 (timezone Asia/Singapore) with lowlighter/metrics@3.19.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
