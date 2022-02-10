@@ -2638,7 +2638,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>SocketSomeone/necord</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🤖 A module for creating Discord bots using NestJS, based on Discord.js</div>
@@ -2691,7 +2691,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>DenzelCode/nest-auth</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">NestJS authentication with MongoDB, WebSocket and JWT (Login, Register, Google Login, Facebook Login, Apple Login, Messages, Rooms, Private DMs)</div>
@@ -2738,7 +2738,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>adrien2p/medusa-extender</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2795,7 +2795,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>beekeeper-studio/beekeeper-studio</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.</div>
@@ -3062,7 +3062,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 11 Feb 2022, 06:16:13 (timezone Asia/Singapore) with lowlighter/metrics@3.20.0</span>
+                <span>Last updated 11 Feb 2022, 07:18:39 (timezone Asia/Singapore) with lowlighter/metrics@3.20.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
