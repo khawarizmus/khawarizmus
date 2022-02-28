@@ -2614,7 +2614,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>craftup/node-mongo-tenant</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A multi-tenancy plugin for mongoose with tenant separation on document level. It's completely customizable, provides a neat interface for model-tenant-binding and can be disabled for running in single-tenant/on premis scenarios.</div>
@@ -2667,7 +2667,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jedireza/reserved-subdomains</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2776,7 +2776,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>udondan/iam-floyd</span>
-                                        <span>starred 7 days ago</span>
+                                        <span>starred 8 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">AWS IAM policy statement generator with fluent interface</div>
@@ -2829,7 +2829,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>openreplay/openreplay</span>
-                                        <span>starred 9 days ago</span>
+                                        <span>starred 10 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -3044,7 +3044,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 28 Feb 2022, 20:31:02 (timezone Asia/Singapore) with lowlighter/metrics@3.21.0</span>
+                <span>Last updated 28 Feb 2022, 21:22:30 (timezone Asia/Singapore) with lowlighter/metrics@3.21.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
