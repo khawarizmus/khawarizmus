@@ -2619,7 +2619,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>AttoJS/vue-request</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">⚡️ Vue 3 composition API for data fetching, supports SWR, polling, error retry, cache request, pagination, etc. ⚡️ 一个能轻松帮你管理请求状态（支持SWR，轮询，错误重试，缓存，分页等）的 Vue 3 请求库</div>
@@ -2672,7 +2672,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>pistazie/cdk-dia</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Automated diagrams of CDK provisioned infrastructure</div>
@@ -3048,7 +3048,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 1 Mar 2022, 20:31:59 (timezone Asia/Singapore) with lowlighter/metrics@3.21.0</span>
+                <span>Last updated 1 Mar 2022, 21:23:03 (timezone Asia/Singapore) with lowlighter/metrics@3.21.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
