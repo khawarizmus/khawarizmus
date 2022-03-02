@@ -2630,7 +2630,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>AttoJS/vue-request</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">⚡️ Vue 3 composition API for data fetching, supports SWR, polling, error retry, cache request, pagination, etc. ⚡️ 一个能轻松帮你管理请求状态（支持SWR，轮询，错误重试，缓存，分页等）的 Vue 3 请求库</div>
@@ -2683,7 +2683,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>pistazie/cdk-dia</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Automated diagrams of CDK provisioned infrastructure</div>
@@ -2736,7 +2736,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>craftup/node-mongo-tenant</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A multi-tenancy plugin for mongoose with tenant separation on document level. It's completely customizable, provides a neat interface for model-tenant-binding and can be disabled for running in single-tenant/on premis scenarios.</div>
@@ -3059,7 +3059,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 2 Mar 2022, 17:18:14 (timezone Asia/Singapore) with lowlighter/metrics@3.21.0</span>
+                <span>Last updated 2 Mar 2022, 18:21:15 (timezone Asia/Singapore) with lowlighter/metrics@3.21.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
