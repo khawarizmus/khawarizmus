@@ -2615,7 +2615,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>vidstack/player</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Video player built with headless web components to truly make it your own - alternative to Video.js.</div>
@@ -2721,7 +2721,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>aaronstillwell/terraform-provider-dokku</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A terraform provider for provisioning applications on the Dokku PaaS</div>
@@ -2774,7 +2774,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dokku/ansible-dokku</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Ansible modules for installing and configuring Dokku</div>
@@ -3039,7 +3039,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 14 Mar 2022, 12:30:36 (timezone Asia/Singapore) with lowlighter/metrics@3.21.0</span>
+                <span>Last updated 14 Mar 2022, 13:37:23 (timezone Asia/Singapore) with lowlighter/metrics@3.21.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
