@@ -2679,7 +2679,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>cloudposse/terraform-provider-utils</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The Cloud Posse Terraform Provider for various utilities (e.g. deep merging, stack configuration management)</div>
@@ -2732,7 +2732,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>cloudposse/github-action-validate-codeowners</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2780,7 +2780,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Adaptavist/terraform-module-aws-lambda</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -3040,7 +3040,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 16 Mar 2022, 19:16:48 (timezone Asia/Singapore) with lowlighter/metrics@3.21.0</span>
+                <span>Last updated 16 Mar 2022, 20:31:55 (timezone Asia/Singapore) with lowlighter/metrics@3.21.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
