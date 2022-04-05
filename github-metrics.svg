@@ -2627,7 +2627,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>nbs-system/naxsi</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">NAXSI is an open-source, high performance, low rules maintenance WAF for NGINX</div>
@@ -2733,7 +2733,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>wal-g/wal-g</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Archival and Restoration for Postgres</div>
@@ -3053,7 +3053,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 6 Apr 2022, 04:21:16 (timezone Asia/Singapore) with lowlighter/metrics@3.22.0</span>
+                <span>Last updated 6 Apr 2022, 05:15:34 (timezone Asia/Singapore) with lowlighter/metrics@3.22.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
