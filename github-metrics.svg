@@ -2680,7 +2680,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>SpiderLabs/ModSecurity-nginx</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">ModSecurity v3 Nginx Connector</div>
@@ -2733,7 +2733,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>wal-g/wal-g</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Archival and Restoration for Postgres</div>
@@ -3053,7 +3053,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 6 Apr 2022, 00:29:06 (timezone Asia/Singapore) with lowlighter/metrics@3.22.0</span>
+                <span>Last updated 6 Apr 2022, 01:22:00 (timezone Asia/Singapore) with lowlighter/metrics@3.22.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
