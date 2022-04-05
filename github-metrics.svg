@@ -2627,7 +2627,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>nbs-system/naxsi</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">NAXSI is an open-source, high performance, low rules maintenance WAF for NGINX</div>
@@ -2680,7 +2680,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>SpiderLabs/ModSecurity-nginx</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">ModSecurity v3 Nginx Connector</div>
@@ -2733,7 +2733,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>wal-g/wal-g</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Archival and Restoration for Postgres</div>
@@ -3053,7 +3053,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 5 Apr 2022, 22:18:51 (timezone Asia/Singapore) with lowlighter/metrics@3.22.0</span>
+                <span>Last updated 5 Apr 2022, 23:21:39 (timezone Asia/Singapore) with lowlighter/metrics@3.22.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
