@@ -2632,7 +2632,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>sheremet-va/dual-packaging</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">example of how dual packaging works in Node</div>
@@ -2785,7 +2785,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>wal-g/wal-g</span>
-                                        <span>starred 17 hours ago</span>
+                                        <span>starred 18 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Archival and Restoration for Postgres</div>
@@ -3052,7 +3052,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 6 Apr 2022, 12:25:12 (timezone Asia/Singapore) with lowlighter/metrics@3.22.0</span>
+                <span>Last updated 6 Apr 2022, 13:18:32 (timezone Asia/Singapore) with lowlighter/metrics@3.22.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
