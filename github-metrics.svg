@@ -2647,7 +2647,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>httpie/httpie</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins &amp; more. https://twitter.com/httpie</div>
@@ -2800,7 +2800,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>steveukx/git-js</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A light weight interface for running git commands in any node.js application.</div>
@@ -3065,7 +3065,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 17 Apr 2022, 00:27:17 (timezone Asia/Singapore) with lowlighter/metrics@3.22.0</span>
+                <span>Last updated 17 Apr 2022, 01:20:15 (timezone Asia/Singapore) with lowlighter/metrics@3.22.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
