@@ -2637,7 +2637,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Wilfred/difftastic</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">a diff that understands syntax 🟥🟩</div>
@@ -2690,7 +2690,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>antfu/issue-up</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Mirror issues to the upstream repos</div>
@@ -3049,7 +3049,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 22 Apr 2022, 05:18:10 (timezone Asia/Singapore) with lowlighter/metrics@3.22.0</span>
+                <span>Last updated 22 Apr 2022, 06:20:36 (timezone Asia/Singapore) with lowlighter/metrics@3.22.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
