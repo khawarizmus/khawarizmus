@@ -2646,7 +2646,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>warpdotdev/Warp</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Warp is a blazingly-fast modern Rust based GPU-accelerated terminal built to make you and your team more productive.</div>
@@ -3052,7 +3052,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 24 Apr 2022, 20:32:38 (timezone Asia/Singapore) with lowlighter/metrics@3.22.0</span>
+                <span>Last updated 24 Apr 2022, 21:27:22 (timezone Asia/Singapore) with lowlighter/metrics@3.22.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
