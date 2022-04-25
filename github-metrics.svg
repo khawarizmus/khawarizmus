@@ -2622,7 +2622,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>guruahn/vue3-google-oauth2</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Handling Google sign-in and sign-out for Vue3 applications.</div>
@@ -2669,7 +2669,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>phanan/vue-google-signin-button</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🔐 A simple Vue plugin to include a Google sign-in button into your web app.</div>
@@ -2716,7 +2716,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>phanan/vue-facebook-signin-button</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A simple plugin to include a custom Facebook sign-in button into your web app.</div>
@@ -2763,7 +2763,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dhoulb/multi-semantic-release</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Proof of concept that wraps semantic-release to work with monorepos.</div>
@@ -2816,7 +2816,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>tophat/monodeploy</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -3031,7 +3031,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 25 Apr 2022, 19:18:06 (timezone Asia/Singapore) with lowlighter/metrics@3.22.0</span>
+                <span>Last updated 25 Apr 2022, 20:36:16 (timezone Asia/Singapore) with lowlighter/metrics@3.22.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
