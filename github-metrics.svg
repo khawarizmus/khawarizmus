@@ -2627,7 +2627,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>kiwicom/monorepo-shipit</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2684,7 +2684,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>open-condo-software/gitexporter</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Make some private GitHub repo directories public</div>
@@ -2737,7 +2737,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>guruahn/vue3-google-oauth2</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Handling Google sign-in and sign-out for Vue3 applications.</div>
@@ -2784,7 +2784,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>phanan/vue-google-signin-button</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🔐 A simple Vue plugin to include a Google sign-in button into your web app.</div>
@@ -2831,7 +2831,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>phanan/vue-facebook-signin-button</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A simple plugin to include a custom Facebook sign-in button into your web app.</div>
@@ -3037,7 +3037,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 26 Apr 2022, 13:21:40 (timezone Asia/Singapore) with lowlighter/metrics@3.22.0</span>
+                <span>Last updated 26 Apr 2022, 14:25:13 (timezone Asia/Singapore) with lowlighter/metrics@3.22.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
