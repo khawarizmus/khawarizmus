@@ -2627,7 +2627,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>asticode/go-astilectron</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Build cross platform GUI apps with GO and HTML/JS/CSS (powered by Electron)</div>
@@ -2680,7 +2680,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>harc/ohm</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A library and language for building parsers, interpreters, compilers, etc.</div>
@@ -2733,7 +2733,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>rogchap/v8go</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Execute JavaScript from Go</div>
@@ -2786,7 +2786,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>owenthereal/godzilla</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Godzilla is a ES2015 to Go source code transpiler and runtime</div>
@@ -3051,7 +3051,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 27 Apr 2022, 21:37:17 (timezone Asia/Singapore) with lowlighter/metrics@3.23.0</span>
+                <span>Last updated 27 Apr 2022, 22:18:42 (timezone Asia/Singapore) with lowlighter/metrics@3.23.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
