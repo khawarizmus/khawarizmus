@@ -209,7 +209,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M0 1.75A.75.75 0 01.75 1h4.253c1.227 0 2.317.59 3 1.501A3.744 3.744 0 0111.006 1h4.245a.75.75 0 01.75.75v10.5a.75.75 0 01-.75.75h-4.507a2.25 2.25 0 00-1.591.659l-.622.621a.75.75 0 01-1.06 0l-.622-.621A2.25 2.25 0 005.258 13H.75a.75.75 0 01-.75-.75V1.75zm8.755 3a2.25 2.25 0 012.25-2.25H14.5v9h-3.757c-.71 0-1.4.201-1.992.572l.004-7.322zm-1.504 7.324l.004-5.073-.002-2.253A2.25 2.25 0 005.003 2.5H1.5v9h3.757a3.75 3.75 0 011.994.574z"/>
                                     </svg>
-                                    73 views in last two weeks
+                                    72 views in last two weeks
                                 </div>
                             </section>
                         </div>
@@ -2630,7 +2630,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>aimen08/algerialogos</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">High quality vector logos for Algerian companies</div>
@@ -2677,7 +2677,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>lookinlab/adonis-lucid-soft-deletes</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Addon for soft deletes AdonisJS Lucid ORM</div>
@@ -2730,7 +2730,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>reg2005/adonis-request-throttler</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Adonis 5 request throttle based on Redis or Memory</div>
@@ -2783,7 +2783,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>bitkidd/adonis-meilisearch</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A MeiliSearch provider for Adonis v5.x</div>
@@ -2836,7 +2836,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ndianabasi/adonis-responsive-attachment</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Turn any field on your Lucid models to an image attachment data type while automatically generating responsive sizes for the attached image files.</div>
@@ -3048,7 +3048,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 20 May 2022, 13:21:44 (timezone Asia/Singapore) with lowlighter/metrics@3.23.0</span>
+                <span>Last updated 20 May 2022, 14:26:21 (timezone Asia/Singapore) with lowlighter/metrics@3.23.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
