@@ -2630,7 +2630,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>adonisjs/attachment-lite</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Turn any field on your Lucid models to an attachment data type</div>
@@ -3048,7 +3048,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 21 May 2022, 03:17:34 (timezone Asia/Singapore) with lowlighter/metrics@3.23.0</span>
+                <span>Last updated 21 May 2022, 04:22:38 (timezone Asia/Singapore) with lowlighter/metrics@3.23.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
