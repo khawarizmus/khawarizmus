@@ -2634,7 +2634,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>testinggospels/camouflage</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Camouflage is a backend mocking tool for HTTP, gRPC, Websockets and Thrift protocols, which helps you carry out your front end prototyping, unit testing, functional/performance testing in silos, in absence of one or more Microservices/APIs.</div>
@@ -2687,7 +2687,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ketanchoyal/mapbox_search</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A Flutter package for place search using MapBox Api and for Static map image</div>
@@ -2740,7 +2740,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>flutter-mapbox-gl/maps</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A Mapbox GL flutter package for creating custom maps</div>
@@ -2793,7 +2793,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>eopeter/flutter_mapbox_navigation</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Turn By Turn Navigation for Your Flutter Application</div>
@@ -2846,7 +2846,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>lhamycodes/flutter_mapbox_autocomplete</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A Flutter Package for MapBox Places autocomplete</div>
@@ -3058,7 +3058,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 23 May 2022, 04:21:28 (timezone Asia/Singapore) with lowlighter/metrics@3.23.0</span>
+                <span>Last updated 23 May 2022, 05:18:37 (timezone Asia/Singapore) with lowlighter/metrics@3.23.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
