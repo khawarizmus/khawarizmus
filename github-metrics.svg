@@ -2604,7 +2604,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dandavison/delta</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A syntax-highlighting pager for git, diff, and grep output</div>
@@ -2657,7 +2657,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>derbyjs/derby</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">MVC framework making it easy to write realtime, collaborative applications that run in both Node.js and browsers</div>
@@ -2704,7 +2704,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>share/sharedb</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Realtime database backend based on Operational Transformation (OT)</div>
@@ -2757,7 +2757,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>OpenRA/OpenRA</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Open Source real-time strategy game engine for early Westwood games such as Command &amp; Conquer: Red Alert written in C# using SDL and OpenGL. Runs on Windows, Linux, *BSD and Mac OS X.</div>
@@ -3022,7 +3022,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 24 May 2022, 00:30:20 (timezone Asia/Singapore) with lowlighter/metrics@3.23.0</span>
+                <span>Last updated 24 May 2022, 01:24:27 (timezone Asia/Singapore) with lowlighter/metrics@3.23.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
