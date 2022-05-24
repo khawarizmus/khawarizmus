@@ -2615,7 +2615,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dandavison/delta</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A syntax-highlighting pager for git, diff, and grep output</div>
@@ -2668,7 +2668,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>derbyjs/derby</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">MVC framework making it easy to write realtime, collaborative applications that run in both Node.js and browsers</div>
@@ -2715,7 +2715,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>share/sharedb</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Realtime database backend based on Operational Transformation (OT)</div>
@@ -3033,7 +3033,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 24 May 2022, 19:18:18 (timezone Asia/Singapore) with lowlighter/metrics@3.23.0</span>
+                <span>Last updated 24 May 2022, 20:41:43 (timezone Asia/Singapore) with lowlighter/metrics@3.23.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
