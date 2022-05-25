@@ -2614,7 +2614,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Lyokone/flutterlocation</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A Flutter plugin to easily handle realtime location in iOS and Android. Provides settings for optimizing performance or battery.</div>
@@ -2667,7 +2667,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>lukepighetti/fluro</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Fluro is a Flutter routing library that adds flexible routing options like wildcards, named parameters and clear route definitions.</div>
@@ -2720,7 +2720,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mapbox/flutter-mapbox-gl</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Moved to https://github.com/tobrun/flutter-mapbox-gl</div>
@@ -2773,7 +2773,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mcaubrey/clay_containers</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Neumorphic containers and text widget primitives to serve as the foundation of your own unique neumorphic designs.</div>
@@ -2826,7 +2826,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>iamSahdeep/liquid_swipe_flutter</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A flutter based liquid swipe</div>
@@ -3038,7 +3038,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 26 May 2022, 04:22:32 (timezone Asia/Singapore) with lowlighter/metrics@3.23.0</span>
+                <span>Last updated 26 May 2022, 05:19:06 (timezone Asia/Singapore) with lowlighter/metrics@3.23.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
