@@ -2619,7 +2619,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Lyokone/flutterlocation</span>
-                                        <span>starred 17 hours ago</span>
+                                        <span>starred 18 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A Flutter plugin to easily handle realtime location in iOS and Android. Provides settings for optimizing performance or battery.</div>
@@ -2672,7 +2672,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>lukepighetti/fluro</span>
-                                        <span>starred 17 hours ago</span>
+                                        <span>starred 18 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Fluro is a Flutter routing library that adds flexible routing options like wildcards, named parameters and clear route definitions.</div>
@@ -3043,7 +3043,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 26 May 2022, 16:28:03 (timezone Asia/Singapore) with lowlighter/metrics@3.23.0</span>
+                <span>Last updated 26 May 2022, 17:22:42 (timezone Asia/Singapore) with lowlighter/metrics@3.23.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
