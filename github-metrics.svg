@@ -2619,7 +2619,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Lyokone/flutterlocation</span>
-                                        <span>starred 18 hours ago</span>
+                                        <span>starred 19 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A Flutter plugin to easily handle realtime location in iOS and Android. Provides settings for optimizing performance or battery.</div>
@@ -2672,7 +2672,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>lukepighetti/fluro</span>
-                                        <span>starred 18 hours ago</span>
+                                        <span>starred 19 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Fluro is a Flutter routing library that adds flexible routing options like wildcards, named parameters and clear route definitions.</div>
@@ -2706,7 +2706,7 @@
                                             <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                             <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                                         </svg>
-                                        200
+                                        201
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -2725,7 +2725,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mapbox/flutter-mapbox-gl</span>
-                                        <span>starred 18 hours ago</span>
+                                        <span>starred 19 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Moved to https://github.com/tobrun/flutter-mapbox-gl</div>
@@ -2778,7 +2778,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mcaubrey/clay_containers</span>
-                                        <span>starred 18 hours ago</span>
+                                        <span>starred 19 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Neumorphic containers and text widget primitives to serve as the foundation of your own unique neumorphic designs.</div>
@@ -2831,7 +2831,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>iamSahdeep/liquid_swipe_flutter</span>
-                                        <span>starred 18 hours ago</span>
+                                        <span>starred 19 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A flutter based liquid swipe</div>
@@ -3043,7 +3043,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 26 May 2022, 17:22:42 (timezone Asia/Singapore) with lowlighter/metrics@3.23.0</span>
+                <span>Last updated 26 May 2022, 18:22:42 (timezone Asia/Singapore) with lowlighter/metrics@3.23.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
