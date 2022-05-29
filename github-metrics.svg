@@ -2634,7 +2634,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>zernonia/statusbase</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A modern, zero-dependency uptime monitoring tool &amp; status page based on GitHub Actions &amp; Nuxt Content v2.</div>
@@ -3058,7 +3058,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 29 May 2022, 18:22:50 (timezone Asia/Singapore) with lowlighter/metrics@3.23.0</span>
+                <span>Last updated 29 May 2022, 19:17:25 (timezone Asia/Singapore) with lowlighter/metrics@3.23.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
