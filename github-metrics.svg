@@ -2620,7 +2620,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>xlanex6/nuxt-meilisearch</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Meilisearch module for Nuxt 3</div>
@@ -2667,7 +2667,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>nuxt-community/partytown-module</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Partytown integration for Nuxt. Run third-party scripts from a web worker.</div>
@@ -3040,7 +3040,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 2 Jun 2022, 04:23:47 (timezone Asia/Singapore) with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 2 Jun 2022, 05:20:09 (timezone Asia/Singapore) with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
