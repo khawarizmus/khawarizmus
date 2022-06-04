@@ -2841,7 +2841,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Lyokone/flutterlocation</span>
-                                        <span>starred 9 days ago</span>
+                                        <span>starred 10 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A Flutter plugin to easily handle realtime location in iOS and Android. Provides settings for optimizing performance or battery.</div>
@@ -3055,7 +3055,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 4 Jun 2022, 23:19:15 (timezone Asia/Singapore) with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 5 Jun 2022, 00:25:50 (timezone Asia/Singapore) with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
