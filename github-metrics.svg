@@ -2624,7 +2624,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>verful/adonis-permissions</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Easily manage user roles and permissions on AdonisJS applications</div>
@@ -2777,7 +2777,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>anqiansong/github-compare</span>
-                                        <span>starred 11 days ago</span>
+                                        <span>starred 12 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A GitHub repositories statistics command-line tool for the terminal</div>
@@ -3044,7 +3044,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 11 Jun 2022, 01:21:56 (timezone Asia/Singapore) with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 11 Jun 2022, 02:25:42 (timezone Asia/Singapore) with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
