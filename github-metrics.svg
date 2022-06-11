@@ -2629,7 +2629,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>grafana/loki</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Like Prometheus, but for logs.</div>
@@ -2682,7 +2682,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ory/kratos</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Next-gen identity server (think Auth0, Okta, Firebase) with Ory-hardened authentication, MFA, FIDO2, profile management, identity schemas, social sign in, registration, account recovery, passwordless. Golang, headless, API-only - without templating or theming headaches. Available as a cloud service.</div>
@@ -2735,7 +2735,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>digitalocean/nginxconfig.io</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">⚙️ NGINX config generator on steroids 💉</div>
@@ -3049,7 +3049,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 11 Jun 2022, 17:18:08 (timezone Asia/Singapore) with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 11 Jun 2022, 18:20:21 (timezone Asia/Singapore) with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
