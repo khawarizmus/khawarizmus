@@ -2610,7 +2610,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>codemirror/lint</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Linting support for the CodeMirror code editor</div>
@@ -2663,7 +2663,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>codemirror/commands</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Collection of editing commands for the CodeMirror code editor</div>
@@ -2716,7 +2716,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>codemirror/search</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Search functionality for the CodeMirror code editor</div>
@@ -2769,7 +2769,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>codemirror/autocomplete</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Autocompletion for the CodeMirror code editor</div>
@@ -2822,7 +2822,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>codemirror/lang-markdown</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Markdown language support for the CodeMirror code editor</div>
@@ -3036,7 +3036,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 13 Jun 2022, 14:26:56 (timezone Asia/Singapore) with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 13 Jun 2022, 15:19:43 (timezone Asia/Singapore) with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
