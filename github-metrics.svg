@@ -2615,7 +2615,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>K-Phoen/backstage-plugin-grafana</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Grafana plugin for Backstage</div>
@@ -3039,7 +3039,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 15 Jun 2022, 05:18:29 (timezone Asia/Singapore) with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 15 Jun 2022, 06:17:42 (timezone Asia/Singapore) with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
