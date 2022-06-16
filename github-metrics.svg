@@ -2625,7 +2625,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>superlistapp/super_editor</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A Rich Text Editor for Flutter</div>
@@ -2678,7 +2678,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>esbuild-kit/tsx</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">⚡️ TypeScript Execute (tsx): Node.js enhanced with esbuild to run TypeScript &amp; ESM</div>
@@ -3043,7 +3043,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 17 Jun 2022, 02:26:06 (timezone Asia/Singapore) with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 17 Jun 2022, 03:15:01 (timezone Asia/Singapore) with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
