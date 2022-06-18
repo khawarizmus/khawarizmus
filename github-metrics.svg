@@ -2629,7 +2629,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>superlistapp/super_editor</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A Rich Text Editor for Flutter</div>
@@ -2729,7 +2729,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>K-Phoen/backstage-plugin-grafana</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Grafana plugin for Backstage</div>
@@ -3047,7 +3047,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 19 Jun 2022, 05:17:09 (timezone Asia/Singapore) with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 19 Jun 2022, 06:18:10 (timezone Asia/Singapore) with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
