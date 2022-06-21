@@ -2609,7 +2609,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>danielroe/nuxt-ionic</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Batteries-included, zero-config Ionic integration for Nuxt</div>
@@ -2821,7 +2821,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>esbuild-kit/tsx</span>
-                                        <span>starred 5 days ago</span>
+                                        <span>starred 6 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">⚡️ TypeScript Execute (tsx): Node.js enhanced with esbuild to run TypeScript &amp; ESM</div>
@@ -3027,7 +3027,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 22 Jun 2022, 03:15:49 (timezone Asia/Singapore) with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 22 Jun 2022, 04:21:20 (timezone Asia/Singapore) with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
