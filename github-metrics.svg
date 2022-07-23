@@ -2629,7 +2629,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>TanStack/ranger</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">⚛️ Hooks for building range and multi-range sliders in React</div>
@@ -2682,7 +2682,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>TanStack/virtual</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🤖 Headless UI for Virtualizing Large Element Lists in JS/TS, React, Solid, Vue and Svelte</div>
@@ -2735,7 +2735,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>TanStack/query</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🤖 Powerful asynchronous state management, server-state utilities and data fetching for TS/JS, React, Solid, Svelte and Vue.</div>
@@ -2788,7 +2788,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>TanStack/table</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🤖 Headless UI for building powerful tables &amp; datagrids for TS/JS -  React-Table, Vue-Table, Solid-Table, Svelte-Table</div>
@@ -3047,7 +3047,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 23 Jul 2022, 11:54:50 (timezone Asia/Singapore) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 23 Jul 2022, 12:35:12 (timezone Asia/Singapore) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
