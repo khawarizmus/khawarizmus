@@ -2634,7 +2634,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>antfu/vitesse-webext</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">⚡️ WebExtension Vite Starter Template</div>
@@ -2740,7 +2740,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>TanStack/ranger</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">⚛️ Hooks for building range and multi-range sliders in React</div>
@@ -2793,7 +2793,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>TanStack/virtual</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🤖 Headless UI for Virtualizing Large Element Lists in JS/TS, React, Solid, Vue and Svelte</div>
@@ -2846,7 +2846,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>TanStack/query</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🤖 Powerful asynchronous state management, server-state utilities and data fetching for TS/JS, React, Solid, Svelte and Vue.</div>
@@ -3058,7 +3058,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 24 Jul 2022, 16:25:02 (timezone Asia/Singapore) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 24 Jul 2022, 17:19:53 (timezone Asia/Singapore) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
