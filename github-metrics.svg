@@ -2624,7 +2624,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>remcoder/chronos</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Reactive time utilities for Meteor. Includes reactive replacements for new Date() and moment().</div>
@@ -2677,7 +2677,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>awesome-selfhosted/awesome-selfhosted</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A list of Free Software network services and web applications which can be hosted on your own servers</div>
@@ -2830,7 +2830,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mattpocock/advanced-typescript-workshop</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Matt's Advanced TypeScript workshop</div>
@@ -3036,7 +3036,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 29 Jul 2022, 19:17:23 (timezone Asia/Singapore) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 29 Jul 2022, 20:42:31 (timezone Asia/Singapore) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
