@@ -20,7 +20,7 @@ jobs:
 
           # User to compute metrics
           # Defaults to the owner of "token"
-          user: gimyboya
+          user: khawarizmus
           # Template to use
           # See https://github.com/lowlighter/metrics/tree/master/source/templates for supported templates
           template: classic
